@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Html and Css
 - 📫 How to reach me: igbunuogheneokoh@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am Determined
+- ⚡ Fun fact: I am very Determined
 
