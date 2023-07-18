@@ -1,7 +1,11 @@
-<h1 align="center"> Hi <img src = "https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif"> I'm Great Okoh</h1>
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<h1 align="center"> Hi <img width ="35" src = "https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif"> I'm Great Okoh</h1>
 <h3 align="center">A passionate front-end developer from Nigeria</h3>
+<!-- <p align = "center">
+  <img alt="Coding" width="600" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
+</p> -->
 
-<img align="center" alt="Coding" width="400" src="![image](https://github.com/okohthegreat/okohthegreat/assets/128264058/ce524f52-06eb-4276-8c0b-7d1b6a7564f6)">
+
 
 <!--
 **okohthegreat/okohthegreat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
