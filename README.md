@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋 I'm Great Okoh</h1>
+<h1 align="center"> Hi <img src = "https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif"> I'm Great Okoh</h1>
 <h3 align="center">A passionate front-end developer from Nigeria</h3>
 
 <img align="center" alt="Coding" width="400" src="![image](https://github.com/okohthegreat/okohthegreat/assets/128264058/ce524f52-06eb-4276-8c0b-7d1b6a7564f6)">
